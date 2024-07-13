@@ -1,8 +1,8 @@
 # ROS-Installation
 
-This repository for the first task in AI track.
+This repository for the first task in AI track which is about installation of ROS noetic and ROS2 foxy.
 
-First Task:
+Task Requirements:
 
 Install ROS noetic.
 
@@ -70,3 +70,36 @@ to check if ROS Operating System is successfully installed or not we use this co
 Result:
 
 ![Screenshot from 2024-07-13 05-59-21](https://github.com/user-attachments/assets/c47ab514-5c0b-4dbc-b816-4444ee62583b)
+
+![Screenshot from 2024-07-13 08-07-37](https://github.com/user-attachments/assets/b39257f3-3117-4f8a-84cf-d39c59076b92)
+
+
+--> Installation of ROS2 foxy:
+
+a) Follow the installation steps from ROS2 documentation.
+
+![Screenshot from 2024-07-13 07-54-08](https://github.com/user-attachments/assets/b0dea08f-2bec-49dd-8cd7-50c53b1ba8b8)
+
+link: https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
+
+1. Set locale
+
+![Screenshot from 2024-07-13 07-57-57](https://github.com/user-attachments/assets/ead5a4b4-a893-4858-b999-16655c0c16d3)
+
+2. Setup Sources
+
+![Screenshot from 2024-07-13 07-59-40](https://github.com/user-attachments/assets/b0b82ce0-323f-4612-9a86-99094c5d0d54)
+
+3. Install ROS 2 packages
+
+![Screenshot from 2024-07-13 08-00-41](https://github.com/user-attachments/assets/4fd030b7-d2e5-463d-9c9d-0273ceef1adb)
+![Screenshot from 2024-07-13 08-01-06](https://github.com/user-attachments/assets/de0a9024-6a29-4888-884b-52dba983425b)
+
+4. Try some examples
+
+![Screenshot from 2024-07-13 08-02-26](https://github.com/user-attachments/assets/c37f020f-ebee-4493-9c0a-ace2c3dd8d9d)
+
+5. Result:
+
+![Screenshot from 2024-07-13 07-46-37](https://github.com/user-attachments/assets/fa131b13-8453-4030-946c-c0b029bcce13)
+![Screenshot from 2024-07-13 07-46-58](https://github.com/user-attachments/assets/3c2bcc09-393c-4e11-938e-597d930c0850)
