@@ -1,6 +1,6 @@
 # ROS-Installation
 
-This repository for the first task in AI track which is about installation of ROS noetic and ROS2 foxy.
+This repository for the first task in AI track which is about installation of ROS noetic and ROS2 foxy..
 
 Task Requirements:
 
